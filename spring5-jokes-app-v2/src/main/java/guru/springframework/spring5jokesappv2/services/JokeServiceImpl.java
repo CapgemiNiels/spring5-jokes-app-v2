@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 /**
  * @author NH 2021-08-19
  */
-
 @Service
 public class JokeServiceImpl implements JokeService {
 
